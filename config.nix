@@ -8,6 +8,7 @@
         go
         ripgrep
         fzf
+        fd
         lazygit
       ];
     };
